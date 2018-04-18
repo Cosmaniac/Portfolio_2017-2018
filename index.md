@@ -13,7 +13,7 @@ Link to sourcecode: [Calculator](https://github.com/Cosmaniac/Portfolio_2017-201
 ### Screensaver
 This is a screensaver that can be added to your computer
 
-![Screensaver](https://github.com/Cosmaniac/Portfolio_2017-2018/blob/master/Screensaver/Screen.png)
+![Screensaver](https://Cosmaniac.github.io/Portfolio_2017-2018/Screensaver/Screen.png)
 
 Link to sourcecode: [Screensaver](https://github.com/Cosmaniac/Portfolio_2017-2018/tree/master/Screensaver)
 
