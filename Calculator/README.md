@@ -2,6 +2,8 @@ This calculator has limited functionality including root, power, pi, percent, th
 
 ![Calculator](https://Cosmaniac.github.io/Portfolio_2017-2018/Calc.png)
 
+<img src = "https://Cosmaniac.github.io/Portfolio_2017-2018/Calc.png" width = "1500"/>
+
 [Sourcecode](https://Cosmaniac.github.io/Portfolio_2017-2018/Calculator/Markdown)
 
 [Homepage](https://cosmaniac.github.io/Portfolio_2017-2018/)
