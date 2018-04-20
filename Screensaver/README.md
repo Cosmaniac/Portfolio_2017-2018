@@ -2,6 +2,6 @@ This is a screensaver that randomly generates lines with different shadings. The
 
 ![Screensaver](https://Cosmaniac.github.io/Portfolio_2017-2018/Screensaver/Screensaver.png)
 
-<img src = "https://Cosmaniac.github.io/Portfolio_2017-2018/Screensaver/Screensaver.png" width = "500"/>
+<img src = "https://Cosmaniac.github.io/Portfolio_2017-2018/Screensaver/Screensaver.png" width = "1500"/>
 
 [Homepage](https://cosmaniac.github.io/Portfolio_2017-2018/)
