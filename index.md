@@ -3,6 +3,8 @@
 # Portfolio
 This is a portfolio of some of my work in Java and Python
 
+## Individual Work
+
 ### Timeline
 This is a brief history of computers. Java.
 
@@ -47,4 +49,9 @@ This is code that runs the "99 Bottles" song. Python 3.
 [Sourcecode](https://Cosmaniac.github.io/Portfolio_2017-2018/Bottles/Markdown)
 
 [More info](https://Cosmaniac.github.io/Portfolio_2017-2018/Bottles)
+
+
+## Group Projects
+
+### Snake Game
 
