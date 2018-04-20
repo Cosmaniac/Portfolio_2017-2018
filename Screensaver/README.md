@@ -1,3 +1,3 @@
-This is a screensaver that randomly generates lines with different shadings. These lines fill the screen until a certain 
+This is a screensaver that randomly generates lines with different shadings. These lines fill the screen, changing colors over time. Colors offered in default code are blue, red, green, yellow, and white.
 
 ![Screensaver](https://Cosmaniac.github.io/Portfolio_2017-2018/Screensaver/Screensaver.png)
