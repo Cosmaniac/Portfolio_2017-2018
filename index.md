@@ -15,7 +15,7 @@ This is a brief history of computers.
 ### Calculator
 This is a calculator with all basic functions and some advanced capabilities.
 
-<img src = "https://Cosmaniac.github.io/Portfolio_2017-2018/Calculator/Calculator.png" width = "250"/>
+<img src = "https://Cosmaniac.github.io/Portfolio_2017-2018/Calculator.png" width = "250"/>
 
 [Sourcecode](https://Cosmaniac.github.io/Portfolio_2017-2018/Calculator/Markdown)
 
