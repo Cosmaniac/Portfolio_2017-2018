@@ -287,4 +287,61 @@ def draw():
     
 ```
 
+Game start menu
+
+```markdown
+import Buttons
+b1 = Buttons.Buttons(660,340,570,350,5,'  START',True)
+b2 = Buttons.Buttons(660,1000,570,350,5,'OPTIONS',True)
+
+def setup():
+  size(2000,1575)
+  background(0,100,0)
+  
+def draw():
+  background(0,100,0)
+  fill(0,200,0)
+  rect(35,110,1927,1445,10)
+  fill(200,240,0)
+  textSize(75)
+  text("[Python Snake Game]", 630,80)
+  fill(0)
+  b1.hover()
+  b1.display()
+  b2.hover()
+  b2.display()
+  
+```
+
+Buttons for start menu
+```markdown
+class Buttons(object):
+    def __init__(self,x,y,w,h,v,n,hov):
+        self.x = x
+        self.y = y
+        self.w = w
+        self.h = h
+        self.v = v
+        self.n = n
+        self.hov = False
+  
+    def display(self):
+        if self.hov:
+            fill(200,240,0)
+            rect(self.x+10,self.y+10,self.w,self.h,self.v)
+            fill(0)
+            text(self.n,self.x+120,self.y+205)
+        else:
+            fill(80,80,80)
+            rect(self.x+15,self.y+15,self.w,self.h,self.v)
+            fill(200,240,0)
+            rect(self.x,self.y,self.w,self.h,self.v)
+            fill(0)
+            text(self.n,self.x+110,self.y+200)
+          
+    def hover(self):
+        self.hov = mouseX>self.x and mouseX<self.x+self.w and mouseY>self.y and mouseY<self.y+self.h
+
+```
+
 [Homepage](https://Cosmaniac.github.io/Portfolio_2017-2018)
