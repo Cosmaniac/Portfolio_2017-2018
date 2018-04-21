@@ -157,3 +157,68 @@ def scrollFeature():
         Mover.x = Mover.x
         Mover.y = 100
 ```
+
+Fruit graphics class
+
+```markdown
+def setup():
+    size(20,20)
+    background(255)
+    
+def draw():
+    background(255)
+    fill(255,0,0)
+    stroke(255,0,0)
+    ellipse(10,14,10,10)
+    noFill()
+    stroke(0,150,0)
+    arc(10,10,5,15,PI+QUARTER_PI, TWO_PI)
+```
+
+Fruit logic class
+
+```markdown
+import FrontBlock
+
+class Fruits:
+    global collide
+    global xpos
+    global ypos
+
+    def __init__(self, collide, ypos, xpos):
+        self.collide = tempCollide
+        self.xpos = tempXpos
+        self.ypos = tempYpos
+
+    def display(self):
+        fill(255, 0, 0)
+        rect(xpos, ypos, 20, 20)
+
+    def impact(self):
+        collide = False
+        '''if(xpos == FrontBlock.xpos and ypos == FrontBlock.ypos + 20 or xpos=FrontBlock.xpos and ypos + 20 == FrontBlock.pos or xpos == FrontBlock.xpos + 20 and ypos == FrontBlock.ypos or xpos + 20 == FrontBlock.xpos and ypos == FrontBlock.ypos):
+            collide = True'''
+
+    def spawn(self):
+        if(collide == True):
+            xpos = random(20, displayWidth - 20)
+            ypos = random(20, displayHeight - 20)
+            collide = False
+```
+
+
+Extra body blocks generation
+
+```markdown
+import PastVals
+
+class Blockz:
+    def __init__(self, x, y):
+        self.x
+        self.y
+    
+    def display(x, y):
+        rect(x, y, 20, 20)
+    
+```
+
