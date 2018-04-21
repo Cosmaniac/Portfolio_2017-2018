@@ -222,3 +222,69 @@ class Blockz:
     
 ```
 
+Storing movements
+
+```markdown
+import Fruit
+
+
+    
+class Follow:
+    def __init__(self, x, y):
+        self.x
+        self.y
+
+    X = [x]
+    Y = [y]        
+    
+    def update(tempX, tempY, snakeLength): 
+        X.insert(0, tempX)
+        if(snakeLength <= len(X)):
+            X.remove(len(X)-1)
+            Y.remove(len(Y)-1)
+    
+```
+
+Score
+
+```markdown
+class Timer:
+    def __init__(self, tempTotalTime):
+        self.totalTime = tempTotalTime
+    
+    def Start(self):
+        savedTime = int(minute())
+        
+    def finish(self):
+        passedTime = int(minute()) - int(savedTime)
+        if(passedTime > totalTime):
+            return True
+        else:
+            return False
+            
+```
+
+Timer
+
+```markdown
+import Scores, Fruit
+
+T1 = Scores.Timer(1)
+
+score = 0
+
+def setup():
+    size(displayWidth, displayHeight)
+
+def draw():
+    if(T1.finish):
+        global score
+        score = score + 0.1
+        T1.Start()
+    """if(Fruit.collide == true):
+        score = score + 100
+    print(score)"""
+    
+```
+
+[Homepage](https://Cosmaniac.github.io/Portfolio_2017-2018)
