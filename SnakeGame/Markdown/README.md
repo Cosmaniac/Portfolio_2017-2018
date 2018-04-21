@@ -1,6 +1,7 @@
 This is the main class
 
 ```markdown
+#MadebyHwS
 xspeed = 0
 yspeed = 0
 x = (width / 2)
