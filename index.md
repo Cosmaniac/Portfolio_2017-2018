@@ -54,6 +54,7 @@ This is code that runs the "99 Bottles" song. Python 3.
 ## Group Projects
 
 ### Snake Game
+This is an attempt at a Snake Game. It is incomplete and in development currently. Python 3.
 
 <img src = "https://Cosmaniac.github.io/Portfolio_2017-2018/SnakeGame/SnakeGame.png" width = "250"/>
 
