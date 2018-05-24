@@ -6,6 +6,8 @@ This is a game where you pilot a small rocketship and click to fire lasers, dest
 
 <img src = "https://cosmaniac.github.io/Portfolio_2017-2018/SpaceGame/Capture2.PNG" width = "1500">
 
-[Sourcecode](https://cosmaniac.github.io/Portfolio_2017-2018/SpaceGame/Markdown/README.md)
+[Sourcecode](https://cosmaniac.github.io/Portfolio_2017-2018/SpaceGame/Markdown)
+
+[Time Log](https://cosmaniac.github.io/Portfolio_2017-2018/SpaceGame/TimeLog)
 
 [Home](https://cosmaniac.github.io/Portfolio_2017-2018/)
