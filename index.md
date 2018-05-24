@@ -57,6 +57,8 @@ This is a game where you shoot enemy spaceships. Java.
 
 [Sourcecode](https://Cosmaniac.github.io/Portfolio_2017-2018/SpaceGame/Markdown)
 
+[Time Log](https://Cosmaniac.github.io/Portfolio_2017-2018/SpaceGame/TimeLog)
+
 [More info](https://Cosmaniac.github.io/Portfolio_2017-2018/SpaceGame)
 
 
