@@ -1,4 +1,4 @@
-##Project Time Log
+<strong>Project Time Log</strong>
 
 4/11/17
     Spacehip changed, copy converted for Enemy Spaceship, and created Star array (Bezier curves took a long time to switch around. NOTE: The spaceships were changed from the submission that we did for the spaceship game in second term. I wasn’t happy with the design, so I switched them around)
